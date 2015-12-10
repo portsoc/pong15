@@ -1,3 +1,4 @@
+"use strict";
 var Bat = class Bat extends Thing {
     constructor(id, x,y, width, height) {
         super(id, x, y);

@@ -1,3 +1,4 @@
+"use strict";
 var Thing = class Thing {
     constructor(id, x,y) {
         this.id = id;

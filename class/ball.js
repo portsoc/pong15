@@ -1,3 +1,4 @@
+"use strict";
 var Ball = class Ball extends Thing {
     constructor(id, x,y, xspeed, yspeed) {
         super(id, x, y);
